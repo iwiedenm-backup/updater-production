@@ -1,0 +1,7 @@
+{
+  "darwin-x64-prod": {
+    "update": "https://github.com/iwiedenm/updater-production/releases/download/darwin-x64-prod-v0.0.3/release.json",
+    "install": "https://github.com/iwiedenm/updater-production/releases/download/darwin-x64-prod-v0.0.3/Simple.Updater.Example-0.0.3.dmg",
+    "version": "0.0.3"
+  }
+}
